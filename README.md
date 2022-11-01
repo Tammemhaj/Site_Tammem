@@ -7,7 +7,7 @@ public class Program {
             if(age > 16) {
                 System.out.println("Welcome!");
             } else {
-                System.out.println("Too Young");
+                System.out.println("Tooo Young");
             }
         } else {
             System.out.println("Error");
