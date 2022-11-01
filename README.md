@@ -2,7 +2,7 @@
 Ma première page web
 public class Program {
     public static void main(String[] args) {
-        int age = 70;
+        int age = 85;
         if(age > 0) {
             if(age > 16) {
                 System.out.println("Welcome!");
